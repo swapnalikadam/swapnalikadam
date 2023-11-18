@@ -1,7 +1,6 @@
 ### Hi there, I am Swapnali👋
+#### Software Engineer by Profession
 
-### Hi there 👋, my name is Swapnali!
-#### Software Engineer
 ![Software Engineer](https://github.com/swapnalikadam/swapnalikadam/blob/main/swapnali-banner.png)
 
 With over four years of industry experience in web development and a master's degree in computer science, I am actively seeking opportunities in software development. I am eager to apply my skills and contribute valuable insights to innovative projects.
