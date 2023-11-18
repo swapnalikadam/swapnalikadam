@@ -1,4 +1,4 @@
-### Hi there, I am Swapnali👋
+### Hi there, I am Swapnali :raising_hand_woman:
 #### Software Engineer by Profession :woman_technologist:
 
 ![Software Engineer](https://github.com/swapnalikadam/swapnalikadam/blob/main/swapnali-banner.png)
