@@ -3,7 +3,7 @@
 
 ![Software Engineer](https://github.com/swapnalikadam/swapnalikadam/blob/main/swapnali-banner.png)
 
-With over four years of industry experience in web development and a master's degree in computer science, I am actively seeking opportunities in software development. I am eager to apply my skills and contribute valuable insights to innovative projects.
+I am an international student in Canada who recently completed my master's in computer science. I bring over four years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain company. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
 
 Skills: JavaScript / REACT / HTML / CSS / NoSQL / Node.js / Express.js
 
