@@ -5,6 +5,8 @@
 
 I am an international student in Canada who recently completed my master's in computer science. I bring over four years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain company. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
 
+## Skills and Experience
+* ![image](https://github.com/swapnalikadam/swapnalikadam/assets/25279062/92252bc0-f7ee-44e7-abcd-8ead7ece4e3d) React 
 Skills: JavaScript / REACT / HTML / CSS / NoSQL / Node.js / Express.js
 
 
