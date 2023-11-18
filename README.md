@@ -1,6 +1,6 @@
 ### Hi there, I am Swapnali👋
 
-With more than four years of industry experience in web development, I have cultivated expertise in key technologies including React.js, Node.js, NoSQL databases, and Express.js. Additionally, I possess knowledge of the JavaScript framework Knockout.js. Recently, I completed my master's in computer science, augmenting my proficiency in the field. I am currently seeking opportunities in software development, eager to apply my skills and contribute valuable insights to innovative projects.
+With more than four years of industry experience in web development, I have cultivated expertise in key technologies including React.js, Node.js, NoSQL databases, and Express.js. Additionally, I possess knowledge of the JavaScript framework Knockout.js and SQL database. Recently, I completed my master's in computer science, augmenting my proficiency in the field. I am currently seeking opportunities in software development, eager to apply my skills and contribute valuable insights to innovative projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnalikadam)](https://github.com/anuraghazra/github-readme-stats)
 
