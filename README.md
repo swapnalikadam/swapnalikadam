@@ -22,8 +22,7 @@ I am an international student in Canada who recently completed a master's in com
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,nodejs,python,javascript,typescript,express,mongodb,mysql" />
 </div>
 
 ## Social Platforms
