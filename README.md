@@ -1,4 +1,6 @@
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swapnalikadam.swapnalikadam" />
+-->
 
 ## Hi there, I am Swapnali :raising_hand_woman:
 ### Software Engineer by Profession :woman_technologist:
@@ -17,6 +19,12 @@ I am an international student in Canada who recently completed a master's in com
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Data%20Visualization%20gif.gif" width="600"/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 ## Social Platforms
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swapnalikadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swapnali-kadam-765698141//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/swapnali.kadam.908347/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/VijaySwapnali)  
