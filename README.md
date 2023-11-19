@@ -13,9 +13,7 @@ I am an international student in Canada who recently completed my master's in co
 * SQL
 
 ## Examples of Work 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/WzmQnzeGpuM" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width=256/>
 
 ## Social Platforms
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/swapnalikadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swapnali-kadam-765698141//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/swapnali.kadam.908347/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VijaySwapnali)  
