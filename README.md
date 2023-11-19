@@ -20,7 +20,7 @@ I am an international student in Canada who recently completed a master's in com
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Data%20Visualization%20gif.gif" width="600"/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages-Frameworks-Tools</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
