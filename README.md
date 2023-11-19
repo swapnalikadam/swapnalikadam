@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swapnalikadam.swapnalikadam" />
 ## Hi there, I am Swapnali :raising_hand_woman:
 ### Software Engineer by Profession :woman_technologist:
 
