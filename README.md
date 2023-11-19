@@ -1,7 +1,7 @@
 ## Hi there, I am Swapnali :raising_hand_woman:
 ### Software Engineer by Profession :woman_technologist:
 
-I am an international student in Canada who recently completed my master's in computer science. I bring over 4 years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain company. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
+I am an international student in Canada who recently completed a master's in computer science. I bring over 4 years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain company. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
 
 ## Skills and Experience
 * REACT
