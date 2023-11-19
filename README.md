@@ -30,9 +30,10 @@ I am an experienced Software Engineer in Canada who recently completed a master'
     <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,express,mongodb,bootstrap,mui,html,css,vscode,github,figma,git,nodejs,python,docker,materialui,postman,babel,visualstudio,mysql" />
 </div>
 
+<!--
 ## Social Platforms
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swapnalikadam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swapnali-kadam-765698141//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/swapnali.kadam.908347/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/VijaySwapnali)  
-
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnalikadam)](https://github.com/anuraghazra/github-readme-stats)
