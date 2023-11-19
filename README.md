@@ -9,12 +9,17 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 
 ## Skills and Experience
 * React.js
+* Redux
 * Node.js
 * Express.js
+* Knockout.js
 * HTML
 * CSS
 * NoSQL
 * SQL
+* Unit Testing
+* Jest and Enzyme
+* Chai and Mocha
 
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
