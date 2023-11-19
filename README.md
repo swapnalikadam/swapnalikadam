@@ -1,8 +1,6 @@
 ### Hi there, I am Swapnali :raising_hand_woman:
 #### Software Engineer by Profession :woman_technologist:
 
-![Software Engineer](https://github.com/swapnalikadam/swapnalikadam/blob/main/swapnali-banner.png)
-
 I am an international student in Canada who recently completed my master's in computer science. I bring over four years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain company. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
 
 ## Skills and Experience
@@ -35,4 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+![Software Engineer](https://github.com/swapnalikadam/swapnalikadam/blob/main/swapnali-banner.png)
 -->
