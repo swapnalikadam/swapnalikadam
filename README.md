@@ -21,6 +21,13 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 * Jest and Enzyme
 * Chai and Mocha
 
+
+## Examples of Work 
+| Command | Description |
+| --- | --- |
+| [npm start](https://www.figma.com/proto/ROnpvOJlGzQbyjAFgNmuH1/Figma-Mobile-Design?type=design&node-id=1-2&t=Ldpwl7VF6hUdFG6Z-0&scaling=scale-down&page-id=0%3A1) | Figma Design for a Mobile Application|
+| npm start | To start the server |
+
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Data%20Visualization%20gif.gif" width="600"/>
