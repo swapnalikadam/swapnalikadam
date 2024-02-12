@@ -26,10 +26,10 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 | Index | Project | Description |
 | --- | --- | --- |
 | 1.| [Figma Design for a Mobile Application](https://www.figma.com/proto/ROnpvOJlGzQbyjAFgNmuH1/Figma-Mobile-Design?type=design&node-id=1-2&t=Ldpwl7VF6hUdFG6Z-0&scaling=scale-down&page-id=0%3A1) |  Mobile application design using Figma |
-| 2.| [Issue Tracking Application](https://github.com/swapnalikadam/Passion-Projects/tree/Issue-Tracking-Application) | 3.| Issue Tracker using JavaScript and HTML |
-| 4.| [Tabular API Data Display](https://github.com/swapnalikadam/Passion-Projects/tree/Tabular-API-Data-Display)| Retrieve data from the REST API and display it on the Frontend |
-| 5.| [InstaPing Application](https://github.com/swapnalikadam/Passion-Projects/tree/InstaPing-Application)| InstaPing application using React.js and Socket.IO to achieve real-time data loading |
-| 6.| [Cloud Print](https://github.com/swapnalikadam/Academic-Projects/tree/CloudPrint-Project)| Cloud Print web application using React.js for the frontend and Node.js for the backend|
+| 2.| [Issue Tracking Application](https://github.com/swapnalikadam/Passion-Projects/tree/Issue-Tracking-Application) Issue Tracker using JavaScript and HTML |
+| 3.| [Tabular API Data Display](https://github.com/swapnalikadam/Passion-Projects/tree/Tabular-API-Data-Display)| Retrieve data from the REST API and display it on the Frontend |
+| 4.| [InstaPing Application](https://github.com/swapnalikadam/Passion-Projects/tree/InstaPing-Application)| InstaPing application using React.js and Socket.IO to achieve real-time data loading |
+| 5.| [Cloud Print](https://github.com/swapnalikadam/Academic-Projects/tree/CloudPrint-Project)| Cloud Print web application using React.js for the frontend and Node.js for the backend|
 
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
