@@ -22,10 +22,10 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 * Chai and Mocha
 
 
-## Examples of Work 
+## Projects 
 | Command | Description |
 | --- | --- |
-| [npm start](https://www.figma.com/proto/ROnpvOJlGzQbyjAFgNmuH1/Figma-Mobile-Design?type=design&node-id=1-2&t=Ldpwl7VF6hUdFG6Z-0&scaling=scale-down&page-id=0%3A1) | Figma Design for a Mobile Application|
+| [Figma Design for a Mobile Application](https://www.figma.com/proto/ROnpvOJlGzQbyjAFgNmuH1/Figma-Mobile-Design?type=design&node-id=1-2&t=Ldpwl7VF6hUdFG6Z-0&scaling=scale-down&page-id=0%3A1) | Figma Design for a Mobile Application|
 | npm start | To start the server |
 
 ## Examples of Work 
