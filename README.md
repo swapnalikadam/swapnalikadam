@@ -23,7 +23,7 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 
 
 ## Projects 
-| Command | Description |
+| Project | Description |
 | --- | --- |
 | [Figma Design for a Mobile Application](https://www.figma.com/proto/ROnpvOJlGzQbyjAFgNmuH1/Figma-Mobile-Design?type=design&node-id=1-2&t=Ldpwl7VF6hUdFG6Z-0&scaling=scale-down&page-id=0%3A1) | Created a sleek mobile application design using Figma |
 | [Issue Tracking Application](https://github.com/swapnalikadam/Passion-Projects/tree/Issue-Tracking-Application) | Created Issue Tracker using JavaScript and HTML |
