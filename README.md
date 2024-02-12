@@ -8,13 +8,17 @@
 I am an experienced Software Engineer in Canada who recently completed a master's in computer science. I bring over 4 years of industry experience in web development as a Fullstack Software Developer in the E-commerce domain, along with 8 months of Canadian experience gained from an internship in an Oil and Gas domain. I am actively seeking opportunities in software development and am eager to apply my skills and contribute valuable insights to innovative projects.
 
 ## Skills and Experience
+* HTML5
+* CSS3
+* SCSS
+* Figma
+* JavaScript
 * React.js
+* TypeScript
 * Redux
 * Node.js
 * Express.js
 * Knockout.js
-* HTML
-* CSS
 * NoSQL
 * SQL
 * Unit Testing
