@@ -37,7 +37,7 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 | 6.| [Georeferencing Feature Implementation](https://github.com/swapnalikadam/Academic-Projects/tree/Georeferencing-Feature-Implementation)| Georeferencing feature into the Nature's Palette website using JavaScript for the frontend and MongoDB for the backend |
 | 7.| [Data Visualization Project](https://github.com/swapnalikadam/Academic-Projects/tree/Data-Visualizations-Project)| Data Visualizations to identify opportunities for improving the landscaping company using Python programming language with the NumPy and Seaborn libraries |
 
-<!--
+
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Data%20Visualization%20gif.gif" width="600"/>
@@ -46,7 +46,7 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,express,mongodb,bootstrap,mui,html,css,vscode,github,figma,git,nodejs,python,docker,materialui,postman,babel,visualstudio,mysql" />
 </div>
--->
+
 
 <!--
 ## Social Platforms
