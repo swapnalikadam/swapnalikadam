@@ -33,14 +33,15 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 | 2.| [Issue Tracker](https://github.com/swapnalikadam/Passion-Projects/tree/Issue-Tracking-Application) | Issue Tracker using JavaScript and HTML |
 | 3.| [Tabular API Data Display](https://github.com/swapnalikadam/Passion-Projects/tree/Tabular-API-Data-Display)| Retrieve data from the REST API and display it on the Frontend |
 | 4.| [InstaPing Application](https://github.com/swapnalikadam/Passion-Projects/tree/InstaPing-Application)| InstaPing application using React.js and Socket.IO to achieve real-time data loading |
-| 5.| [Cloud Print](https://github.com/swapnalikadam/Academic-Projects/tree/CloudPrint-Project)| Cloud Print web application using React.js for the frontend and Node.js for the backend |
-| 6.| [Georeferencing Feature Implementation](https://github.com/swapnalikadam/Academic-Projects/tree/Georeferencing-Feature-Implementation)| Georeferencing feature into the Nature's Palette website using JavaScript for the frontend and MongoDB for the backend |
-| 7.| [Data Visualizations](https://github.com/swapnalikadam/Academic-Projects/tree/Data-Visualizations-Project)| Data Visualizations to identify opportunities for improving the landscaping company using Python programming language with the NumPy and Seaborn libraries |
+| 5.| [Georeferencing Feature Implementation](https://github.com/swapnalikadam/Academic-Projects/tree/Georeferencing-Feature-Implementation)| Georeferencing feature into the Nature's Palette website using JavaScript for the frontend and MongoDB for the backend |
+| 6.| [Data Visualizations](https://github.com/swapnalikadam/Academic-Projects/tree/Data-Visualizations-Project)| Data Visualizations to identify opportunities for improving the landscaping company using Python programming language with the NumPy and Seaborn libraries |
 
 <!--
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Data%20Visualization%20gif.gif" width="600"/>
+
+| 5.| [Cloud Print](https://github.com/swapnalikadam/Academic-Projects/tree/CloudPrint-Project)| Cloud Print web application using React.js for the frontend and Node.js for the backend |
 -->
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
