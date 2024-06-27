@@ -10,12 +10,9 @@ I am an experienced Software Engineer in Canada who recently completed a master'
 ## Skills and Experience
 * HTML5
 * CSS3
-* SCSS
 * Figma
 * JavaScript
 * React.js
-* TypeScript
-* Redux
 * Node.js
 * Express.js
 * Knockout.js
