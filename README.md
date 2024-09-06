@@ -17,6 +17,7 @@ I am an experienced Full Stack Developer in Canada who recently completed a mast
 * Express.js
 * Knockout.js
 * C#
+* Blazor
 * .Net
 * SQL
 * NoSQL
