@@ -47,7 +47,7 @@ I am an experienced Full Stack Developer in Canada who recently completed a mast
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,express,mongodb,bootstrap,mui,html,css,vscode,github,figma,git,nodejs,python,docker,materialui,postman,babel,visualstudio,mysql,azure,cs,blazor,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,javascript,typescript,react,redux,nuxtjs,vue,express,mysql,postgres,workbench,dbvisualizer,mongodb,fastapi,nodejs,restapi,jmeter,jest,enzyme,chai,mocha,agile,scrum,vscode,visualstudio,sqlserver,tfs,jira,github,cs,blazor,python,azure,devops,ci/cd" />
 </div>
 
 
