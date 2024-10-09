@@ -5,7 +5,7 @@
 ## Hi there, I am Swapnali :raising_hand_woman:
 ### Full Stack Developer by Profession :woman_technologist:
 
-I am an experienced Full Stack Developer in Canada who recently completed a master's in computer science. With over 5 years of industry experience, I specialize in web development, particularly within the E-commerce and Oil & Gas sectors. I am passionate about contributing to innovative software development projects and leveraging my expertise to deliver valuable insights and impactful solutions.
+I am an experienced Full Stack Developer based in Canada with a Master's degree in Computer Science and over 5 years of industry experience. My expertise lies in application development across diverse domains, including E-commerce, Oil & Gas, and the medical sector. I am passionate about contributing to innovative software projects, and I thrive on leveraging my skills to provide valuable insights and deliver impactful, high-quality solutions.
 
 ## Skills and Experience
 * HTML5
