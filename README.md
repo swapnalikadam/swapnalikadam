@@ -1,0 +1,1 @@
+My portfolio website succinctly communicates my background, experience, education, and skills. Created using HTML for structure, CSS for styling, and JavaScript for interactivity, it provides a comprehensive overview of my professional profile in a visually appealing and user-friendly format.
