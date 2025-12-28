@@ -37,7 +37,7 @@ I am an experienced Full Stack Developer based in Canada with a Master's degree 
 | 4.| [InstaPing Application](https://github.com/swapnalikadam/Passion-Projects/tree/InstaPing-Application)| InstaPing application using React.js and Socket.IO to achieve real-time data loading |
 | 5.| [Georeferencing Feature Implementation](https://github.com/swapnalikadam/Academic-Projects/tree/Georeferencing-Feature-Implementation)| Georeferencing feature into the Nature's Palette website using JavaScript for the frontend and MongoDB for the backend |
 | 6.| [Data Visualizations](https://github.com/swapnalikadam/Academic-Projects/tree/Data-Visualizations-Project)| Data Visualizations to identify opportunities for improving the landscaping company using Python programming language with the NumPy and Seaborn libraries |
-| 7.| [Blazor SignalR Chat App](https://github.com/swapnalikadam/Passion-Projects/tree/Issue-Tracking-Application) | Real-time chat application built using ASP.NET Blazor and the SignalR service |
+| 7.| [Blazor SignalR Chat App](https://github.com/swapnalikadam/BlazorSignalRApp) | Real-time chat application built using ASP.NET Blazor and the SignalR service |
 <!--
 ## Examples of Work 
 <img src="https://github.com/swapnalikadam/swapnalikadam/blob/main/Natures%20Natures%20Palette%20Website%20gif.gif" width="600"/>
